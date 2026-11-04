@@ -1,32 +1,28 @@
-# 👋 Hello World! I'm Abhishek
+<h1 align="center">👋 Hello World, I'm Abhishek!</h1>
 
 <h3 align="center">
-  🚀 Aspiring Java Full Stack Developer | Java Enthusiast | Problem Solver
+🚀 Aspiring Java Full Stack Developer | Java Enthusiast | Problem Solver
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+in+Progress;Building+Real-World+Applications;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding Animation" width="350" src="./assets/coding.gif" />
+<img align="right" alt="Coding Animation" width="450" src="./config.gif" />
 
 ## 💫 About Me
 
-🎓 B.Tech Graduate in **Artificial Intelligence & Data Science (2026)**.
-
-- 💻 Passionate about **Java Full Stack Development**.
-- 🔭 Building applications using Java, Spring Boot, React and MySQL.
-- 🌱 Learning Advanced Java, JDBC, Hibernate, Spring Boot and REST APIs.
-- 🧠 Strengthening Data Structures and Algorithms.
-- 🚀 Interested in developing scalable, real-world applications.
-- 🤝 Open to collaborating on Java projects and open-source contributions.
+- 🎓 B.Tech Graduate in Artificial Intelligence & Data Science (2026).
+- 💻 Passionate about Java Full Stack Development.
+- 🔭 Currently building Java Full Stack projects.
+- 🌱 Learning Core Java, Advanced Java, Spring Boot, Hibernate and React.
+- 👯 Looking to collaborate on Java projects and open-source contributions.
+- 🤔 Improving Data Structures & Algorithms.
 - 💬 Ask me about Java, OOP, SQL and Web Development.
-- 📫 Email: **yhrabhishek2005@gmail.com**
-- ⚡ Fun fact: Every bug is another opportunity to become a better developer!
+- 📫 Reach me at: **yhrabhishek2005@gmail.com**
+- 😄 Pronouns: He/Him.
+- ⚡ Every bug is an opportunity to learn something new! 🚀
 
-<br clear="right"/>
+<br clear="right"/> 
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -127,11 +123,25 @@ A job portal web application built to manage job opportunities and applications 
   </a>
 </p>
 
-### 🔥 LeetCode Activity
+## 🧠 LeetCode Journey & DSA Progress</h3>
+<a href="https://github.com/Abhishek_174">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+  
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" height="80" align="center" /> 
+  <br>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100" height="80" align="center" />
+</td>
+<td>
+  <img width="430em" src="https://leetcard.jacoblin.cool/Abhishek_174?theme=dark&font=Nunito&ext=heatmap" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhishek_174?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Activity" />
-</p>
+<!--LeetCode Sectin End-->
 
 ---
 
