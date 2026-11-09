@@ -118,7 +118,7 @@ A job portal web application built to manage job opportunities and applications 
   <a href="https://www.geeksforgeeks.org/user/yhrabhishek007/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-yhrabhishek007-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/abhi_007">
+  <a href="https://www.codechef.com/users/abhi_6896">
     <img src="https://img.shields.io/badge/CodeChef-abhi__007-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
